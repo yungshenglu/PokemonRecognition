@@ -25,4 +25,4 @@ $ python main.py KNN
 ---
 ## Author
 
-* [David Lu]()
+* [David Lu](https://github.com/yungshenglu)
