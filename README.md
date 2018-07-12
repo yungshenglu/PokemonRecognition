@@ -10,7 +10,7 @@ This repository is some pactice of data parsing by using Python. Notice that thi
 $ python main.py svm
 $ python main.py SVM
 
-# Execute each main.py by using SVM training model
+# Execute each main.py by using KNN training model
 $ python main.py knn
 $ python main.py KNN
 ```
