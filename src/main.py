@@ -20,10 +20,8 @@ from scipy.misc import imread
 from PIL import Image, ImageOps
 from bunch import Bunch
 
-POKEMON_PATH = './pokemon'
-POKEMON_PROC_PATH = './pokemon_processed'
-
-
+POKEMON_PATH = '../input'
+POKEMON_PROC_PATH = '../processed'
 
 def plot_gallery(images, titles, h, w, n_row = 3, n_col = 4):
     pl.figure(figsize=(1.8 * n_col, 2.4 * n_row))

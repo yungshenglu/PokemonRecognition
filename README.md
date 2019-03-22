@@ -1,9 +1,15 @@
 # Pokemon Recognition
 
-This repository is some pactice of data parsing by using Python. Notice that this repository is lab in "Workshop on AI & Big Data Analytics 2018".
+This repository is going to implement a Pokemon's image recognition. Besides, this program is using KNN and SVM model with **scikit-learn** to learn. Notice that this program can recognize the image of Pokemon as follow:
+* Charizrd
+* Gengar
+* Pikachu
+* Tangela
 
 ---
 ## Prerequisite
+
+> **NOTICE:** Make sure you have already installed Python on your machine.
 
 * Before executing, you need to install the following packages
     * Install **Pillow 2.2.1** using `pip`
@@ -20,7 +26,7 @@ This repository is some pactice of data parsing by using Python. Notice that thi
         ```
 
 ---
-## Execution 
+## Execution
 
 ```bash
 # Execute each main.py by using SVM training model
@@ -33,11 +39,11 @@ $ python main.py KNN
 ```
 
 ---
-## Framework
+## File Description
 
-* `main.py` - Use Python with respect to KNN and SVM training model to recognize each Pokemon
-* `pokemon/` - Input image of each pokemon
-* `pokemon_processed/` - Processed image after transfer into grayscale
+* `./src/main.py` - Use Python with respect to KNN and SVM training model to recognize each Pokemon
+* `./input/` - Input image of each pokemon
+* `./processed/` - Processed image after transfer into grayscale
 
 ---
 ## References
@@ -49,4 +55,11 @@ $ python main.py KNN
 ---
 ## Author
 
+> **NOTICE:** You can follow the contributing process [CONTRIBUTING.md](CONTRIBUTING.md) to join me. I am very welcome any issue!
+
 * [David Lu](https://github.com/yungshenglu)
+
+---
+## License
+
+[GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
