@@ -56,7 +56,7 @@ This repository is going to implement a Pokemon's image recognition. Besides, th
 * [scikit-learn 0.19.1](https://pypi.org/project/scikit-learn/)
 
 ---
-## Author
+## Contributor
 
 > **NOTICE:** You can follow the contributing process [CONTRIBUTING.md](CONTRIBUTING.md) to join me. I am very welcome any issue!
 
