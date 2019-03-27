@@ -30,13 +30,13 @@ This repository is going to implement a Pokemon's image recognition. Besides, th
 
 * Execute `main.py` by using **SVM** training model
     ```bash
-    # Make sure your current directory is "./src/"
+    # Make sure your current directory is "src/"
     $ python main.py svm
     $ python main.py SVM
     ```
 * Execute `main.py` by using **KNN** training model
     ```bash
-    # Make sure your current directory is "./src/"
+    # Make sure your current directory is "src/"
     $ python main.py knn
     $ python main.py KNN
     ```
